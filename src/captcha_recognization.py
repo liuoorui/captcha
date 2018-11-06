@@ -173,7 +173,6 @@ with tf.Session() as session:
 
         if acc > 0.9:
             saver.save( session, model_path, global_step=i )
-
             if acc > 0.95:
                 break
         
