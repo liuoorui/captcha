@@ -38,6 +38,8 @@ gray = gray.reshape( 60, 160, 1 )
 
 ## 测试
 
+github大文件比较麻烦，训练好的模型放在了[这里](https://pan.baidu.com/s/1D8L-NYpPKSF-GM0Cz_NkUA)。
+
 将保存的模型导入：
 
 ```python
